@@ -12,8 +12,7 @@ public class OrdenacaoComLista {
             System.out.println(nota + " ");
 
         }
-
-        //nova atualização
+        
         System.out.println();
     }
 }
