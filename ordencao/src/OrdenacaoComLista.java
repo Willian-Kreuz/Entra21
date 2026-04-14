@@ -12,7 +12,7 @@ public class OrdenacaoComLista {
             System.out.println(nota + " ");
 
         }
-        
+
         System.out.println();
     }
 }
